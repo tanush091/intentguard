@@ -12,6 +12,9 @@ The documentation has two layers:
 - **As-built reference** (the subfolders): what the code does today, file by file. Each page links
   to the target section it implements.
 
+New to the project? Start with the plain-language [../OVERVIEW.md](../OVERVIEW.md): both flow
+diagrams and a tour of every folder.
+
 ## Target spec
 
 | Document | Contents |

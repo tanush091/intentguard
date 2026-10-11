@@ -28,6 +28,9 @@ pre-execution reviewer reach 70.5% to 84.0%. Details and caveats:
 [docs/research/results.md](docs/research/results.md),
 [docs/research/limitations.md](docs/research/limitations.md).
 
+New here? [OVERVIEW.md](OVERVIEW.md) explains the whole system in plain language, with a simple
+flow diagram and a technical one, and says what is in every folder.
+
 ## Quickstart
 
 **Windows:** run `start.bat` in the repository root. It does the following, and `stop.bat` stops everything:
